@@ -14,6 +14,7 @@ export const Container = styled.div<IContainerProps>`
   padding: 18px 24px;
   width: 100%;
   font-size: 16px;
+  margin-bottom: 8px;
 
   & + div {
     margin-top: 24px;
@@ -43,7 +44,7 @@ export const Container = styled.div<IContainerProps>`
     flex: 1;
     background: transparent;
     border: 0;
-    color: #b7b7cc;
+    color: #3a3a3a;
 
     &::placeholder {
       color: #b7b7cc;
@@ -53,4 +54,9 @@ export const Container = styled.div<IContainerProps>`
   svg {
     margin-right: 16px;
   }
+`;
+
+export const Label = styled.label`
+  font-size: 14px;
+  color: #3a3a3a;
 `;
