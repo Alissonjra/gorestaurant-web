@@ -37,6 +37,7 @@ Install dependencies
 # :runner: Getting Started
 
 Run the following command in order to start the server:
+
 ```yarn json-server server.json -p 3333```
 
 Run the following command in order to start the application in a development environment:
