@@ -59,4 +59,4 @@ In this project i used this technologies:
 
 # :closed_book: License
 Released in 2020 (Work in progress 🚧)
-This project is under the [MIT license]
+This project is under the [MIT license](https://github.com/Alissonjra/gorestaurant-web/blob/master/LICENSE)
